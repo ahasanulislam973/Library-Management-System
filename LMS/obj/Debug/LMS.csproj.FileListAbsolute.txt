@@ -1,0 +1,52 @@
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\bin\Debug\LMS.exe.config
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\bin\Debug\LMS.exe
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\bin\Debug\LMS.pdb
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.exe
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.pdb
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.Login.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.Registration.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.Home.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.DashBoard.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.BookList.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.AddBooks.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.LibrarianHome.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.Delete_Books.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.UpdateBookList.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.AllBookList.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.SearchBook.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.UserHome.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.ViewMembers.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.AdminHome.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.UpdateMembers.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.DeleteMembers.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.AddNotice.resources
+E:\SAMESTER 8\OOP2\Lab\OOP2[L]Sln\LMS\obj\Debug\LMS.ViewNotice.resources
+E:\SAMESTER 8\OOP2\Projects\LMS\bin\Debug\LMS.exe.config
+E:\SAMESTER 8\OOP2\Projects\LMS\obj\Debug\LMS.exe
+E:\SAMESTER 8\OOP2\Projects\LMS\obj\Debug\LMS.pdb
+E:\SAMESTER 8\OOP2\Library Management System\LMS\bin\Debug\LMS.exe.config
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.exe
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.pdb
+E:\SAMESTER 8\OOP2\Library Management System\LMS\bin\Debug\LMS.exe
+E:\SAMESTER 8\OOP2\Library Management System\LMS\bin\Debug\LMS.pdb
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.AddBooks.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.AddNotice.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.AdminHome.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.BookList.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.DeleteMembers.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.LibrarianHome.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.Login.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.Registration.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.SearchBook.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.UserHome.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.ViewMembers.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.ViewNotice.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.UpdateAndDeleteNotice.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.Members.resources
+E:\SAMESTER 8\OOP2\Library Management System\LMS\obj\Debug\LMS.ReturnBook.resources
